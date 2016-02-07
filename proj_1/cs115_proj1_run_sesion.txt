@@ -1,0 +1,11 @@
+Python 2.7.6 (default, Jun 22 2015, 17:58:13) 
+[GCC 4.8.2] on linux2
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Please input the amount of purchase: 100
+Amount of purchase:               100.00
+State tax:                          5.00
+County tax:                         2.50
+County tax:                       107.50
+>>> 

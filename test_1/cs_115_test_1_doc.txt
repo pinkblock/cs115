@@ -1,0 +1,7 @@
+Write a Python program that...
+
+reads an integer from the keyboard into a variable called "age"
+reads a string from the keyboard into a variable called "name"
+assigns your "age" multiplied by "365" to an "age_in_days" variable
+
+displays" name "  you are " age_in_days " days old" (where name and age_in_days are replaced by the values that were input/assigned)
